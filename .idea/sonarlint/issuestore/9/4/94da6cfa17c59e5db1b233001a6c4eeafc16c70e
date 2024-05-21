@@ -1,0 +1,52 @@
+
+m
+java:S1192‹"QDefine a constant instead of duplicating this literal "Save a text File" 3 times.(˜û÷ıÿÿÿÿ
+o
+java:S1104"TMake mnSaveAs a static final constant or non-public and provide accessors if needed.(´´›©üÿÿÿÿ
+k
+java:S1104"PMake text a static final constant or non-public and provide accessors if needed.(øò¨ıÿÿÿÿ
+h
+java:S1104"RMake isSave a static final constant or non-public and provide accessors if needed.(›ä
+k
+java:S1104"PMake file a static final constant or non-public and provide accessors if needed.(ğ ½ºÿÿÿÿÿ
+r
+java:S1104"\Make previousSaveFile a static final constant or non-public and provide accessors if needed.(¹£¸©
+i
+java:S2095è"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Üô¢ùÿÿÿÿ
+e
+java:S2095‚"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ŠÀø¯
+h
+java:S2095s"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¾¡½ßÿÿÿÿÿ
+i
+java:S2095Ç"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(Üô¢ùÿÿÿÿ
+e
+java:S2095±"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ŠÀø¯
+e
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ŠÀø¯
+e
+java:S2095¤"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ŠÀø¯
+o
+java:S3655_"TCall "buttonType.isPresent()" or "!buttonType.isEmpty()" before accessing the value.(†Š¤€ıÿÿÿÿ
+h	java:S116!"SRename this field "MenuItem" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€º›
+
+java:S1186À"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(›¶À°ùÿÿÿÿ
+
+java:S1186á"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(É¥¤–ıÿÿÿÿ
+y
+java:S4144å"bUpdate this method so that its implementation is not identical to "rootOnDragDropped" on line 196.(Ñâ–¹
+1
+java:S3626U"Remove this redundant jump.(ú…Ü‡
+N
+java:S1117p"8Rename "file" which hides the field declared at line 30.(¸Äøš
+T
+java:S1117„"8Rename "text" which hides the field declared at line 28.(¦—ØĞúÿÿÿÿ
+T
+java:S1117‘"8Rename "text" which hides the field declared at line 28.(¦—ØĞúÿÿÿÿ
+C
+java:S1172",Remove this unused method parameter "event".(ÿ³–ú
+T
+java:S1117¦"8Rename "text" which hides the field declared at line 28.(¦—ØĞúÿÿÿÿ
+T
+java:S1117³"8Rename "text" which hides the field declared at line 28.(¦—ØĞúÿÿÿÿ
+F
+java:S1172×"/Remove this unused method parameter "keyEvent".(±åæ

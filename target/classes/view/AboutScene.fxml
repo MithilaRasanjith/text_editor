@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Separator?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.ijse.dep10.editor.controller.AboutSceneController">
+   <children>
+      <ImageView fx:id="imgView" fitHeight="160.0" fitWidth="142.0" layoutX="50.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@/img/2721302.png" />
+         </image></ImageView>
+      <Label layoutX="229.0" layoutY="37.0" prefHeight="97.0" prefWidth="306.0" text="Text Editor 2.0">
+         <font>
+            <Font name="Ponnala" size="41.0" />
+         </font>
+      </Label>
+      <Label layoutX="199.0" layoutY="166.0" text="Build #IU-223.8214.52, built on December 20, 2022">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label layoutX="199.0" layoutY="207.0" text="Licensed to Mithila Rasanjith">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label layoutX="199.0" layoutY="223.0" text="Subscription is active until February 5, 2024.">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label layoutX="199.0" layoutY="239.0" text="For educational use only.">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label layoutX="199.0" layoutY="271.0" text="Runtime version: 17.0.5+1-b653.23 amd64">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label layoutX="199.0" layoutY="287.0" text="VM: OpenJDK 64-Bit Server VM by JetBrains s.r.o.">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Label layoutX="199.0" layoutY="324.0" text="Copyright © 2000–2023 JetBrains s.r.o.">
+         <font>
+            <Font size="14.0" />
+         </font></Label>
+      <Separator layoutX="200.0" layoutY="134.0" prefHeight="18.0" prefWidth="379.0" />
+   </children>
+</AnchorPane>
